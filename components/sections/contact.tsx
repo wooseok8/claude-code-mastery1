@@ -50,7 +50,7 @@ export function Contact() {
 
       // 폼 리셋
       form.reset()
-    } catch (error) {
+    } catch {
       toast.error("문의 전송에 실패했습니다.", {
         description: "잠시 후 다시 시도해주세요.",
       })

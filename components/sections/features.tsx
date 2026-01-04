@@ -1,4 +1,4 @@
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
+import { Card, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Container } from "@/components/layout/container"
 import { Section } from "@/components/layout/section"
 import { Zap, Shield, Palette, Code, Smartphone, Rocket } from "lucide-react"

@@ -17,7 +17,7 @@ import { Separator } from "@/components/ui/separator"
 import { Switch } from "@/components/ui/switch"
 import { Checkbox } from "@/components/ui/checkbox"
 import { toast } from "sonner"
-import { Info, AlertTriangle, CheckCircle2, XCircle } from "lucide-react"
+import { Info, AlertTriangle } from "lucide-react"
 
 export default function ComponentsPage() {
   return (
