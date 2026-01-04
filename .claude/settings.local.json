@@ -17,10 +17,6 @@
       "Bash(git push:*)"
     ]
   },
-  "enabledMcpjsonServers": [
-    "playwright"
-  ],
-  "enableAllProjectMcpServers": true,
   "hooks": {
     "Notification": [
       {
