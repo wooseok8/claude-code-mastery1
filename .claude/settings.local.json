@@ -40,5 +40,12 @@
         ]
       }
     ]
-  }
+  },
+  "enabledMcpjsonServers": [
+    "playwright",
+    "context7",
+    "sequential-thinking",
+    "shadcn"
+  ],
+  "enableAllProjectMcpServers": true
 }
